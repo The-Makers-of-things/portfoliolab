@@ -175,9 +175,3 @@ Research Notebooks
 .. note::
     This and other accompanying Jupyter Notebook Tutorials are now available via the respective tier on
     `Patreon <https://www.patreon.com/HudsonThames>`_.
-
-The following research notebooks provide a more detailed exploration of the algorithm.
-
-* `Nested Clustered Optimisation Notebook`_
-
-.. _Nested Clustered Optimisation Notebook: https://github.com/Hudson-and-Thames-Clients/research/blob/master/Portfolio%20Optimisation%20Tutorials/Nested%20Clustered%20Optimisation%20(NCO)/NCO.ipynb

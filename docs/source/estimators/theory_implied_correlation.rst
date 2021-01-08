@@ -200,9 +200,3 @@ Research Notebooks
 .. note::
     This and other accompanying Jupyter Notebook Tutorials are now available via the respective tier on
     `Patreon <https://www.patreon.com/HudsonThames>`_.
-
-The following research notebook can be used to better understand how the algorithms within this module can be used on real data.
-
-* `Theory-Implied Correlation Notebook`_
-
-.. _Theory-Implied Correlation Notebook: https://github.com/Hudson-and-Thames-Clients/research/blob/master/Portfolio%20Optimisation%20Tutorials/Theory%20Implied%20Correlation%20(TIC)/TIC.ipynb

@@ -12,5 +12,7 @@ Changelog
 ..
     For Help: https://releases.readthedocs.io/en/latest/index.html
 
-* :feature:`1` Migrated code from MlFinLab to PortfolioLab.
-* :support:`1` Migrated documentation from MlFinLab to PortfolioLab.
+* :feature:`1` Migrated Portfolio Optimisation Module code from MlFinLab to PortfolioLab.
+* :support:`1` Migrated Portfolio Optimisation Module documentation from MlFinLab to PortfolioLab.
+* :feature:`2` Migrated Online Portfolio Selection Module code from MlFinLab to PortfolioLab.
+* :support:`2` Migrated Online Portfolio Selection Module documentation from MlFinLab to PortfolioLab.

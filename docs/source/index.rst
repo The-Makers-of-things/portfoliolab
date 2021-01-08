@@ -94,6 +94,18 @@ This project is licensed under an all rights reserved licence.
     utils/risk_metrics
 
 .. toctree::
+    :maxdepth: 5
+    :caption: Online Portfolio Selection
+    :hidden:
+
+    online_portfolio_selection/introduction
+    online_portfolio_selection/benchmarks
+    online_portfolio_selection/momentum
+    online_portfolio_selection/mean_reversion
+    online_portfolio_selection/pattern_matching
+    online_portfolio_selection/universal_portfolio
+
+.. toctree::
     :maxdepth: 2
     :caption: Developer Guide
     :hidden:
